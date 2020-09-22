@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JWGLTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JWGLTest_jar</output-path>
+    <root id="archive" name="JWGLTest.jar">
+      <element id="module-output" name="JWGLTest" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/lwjgl-debug.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/laf-plugin-7.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/AppleJavaExtensions.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/lwjgl_util_applet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/lzma.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/substance-7.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/jinput.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/log4j-api-2.0-beta9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/lwjgl_test.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/laf-widget-7.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/lwjgl_util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/trident-7.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="O:/Assets/LWJGL/2/asm-debug-all.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
